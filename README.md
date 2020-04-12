@@ -9,6 +9,9 @@ The *The Car Connection* dataset was scraped by [Mr. Nicolas Gervais](https://gi
 
 * **Hans Dhondea** - *This repo* - [AshivDhondea](https://github.com/AshivDhondea)
 
+## Report
+The project report and its source files can be found in this [repo](https://github.com/AshivDhondea/ENSC813_report).
+
 ### Prerequisites
 This project was created using a custom *conda* environment called *tfgpu*. 
 

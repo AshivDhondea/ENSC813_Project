@@ -59,7 +59,7 @@ else:
       script_name = 'main_xx';  
 
 # All files created by this script will be named according to this:
-full_name = script_name+'_'+name_brand_1+'_'+name_brand_2+ "undersampl";
+full_name = script_name+'_'+name_brand_1+'_'+name_brand_2+ "_undersampl";
 # --------------------------------------------------------------------------- #
 path_base = 'TCC_dataset/'
 print('Available classes in the dataset are: ');

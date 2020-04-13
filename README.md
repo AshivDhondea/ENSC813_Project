@@ -19,6 +19,10 @@ To re-create this environment, the following command may be run in the *Anaconda
 
 Python packages used are listed in the file ensc813-tfgpu-package-list.txt which can be obtained by running the command <code>conda list --export > ensc813-tfgpu-package-list.txt </code>.
 
+### Binary classification
+For the binary classification task, we made use of the following ConvNet architectures
+![ConvNet architectures for binary classification](https://github.com/AshivDhondea/ENSC813_Project/blob/master/output_files/convnets.png)
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AshivDhondea/ENSC813_Project/blob/master/LICENSE) file for details

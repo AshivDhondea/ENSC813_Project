@@ -21,7 +21,7 @@ Python packages used are listed in the file ensc813-tfgpu-package-list.txt which
 
 ### Binary classification
 For the binary classification task, we made use of the following ConvNet architectures
-![ConvNet architectures](https://github.com/AshivDhondea/ENSC813_Project/blob/master/output_files/convnets.png)
+![ConvNet architecture](https://github.com/AshivDhondea/ENSC813_Project/blob/master/output_files/convnets.png)
 
 ### License
 

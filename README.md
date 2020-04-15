@@ -21,9 +21,9 @@ Due to GitHub's file size restrictions, most models cannot be committed to this 
 ### Prerequisites
 This project was created using a custom *conda* environment called *tfgpu*. 
 
-To re-create this environment, the following command may be run in the *Anaconda Powershell Prompt*: <code>conda create -n tfgpu --ensc813-tfgpu-package-list.txt </code>
+To re-create this environment, the following command may be run in the *Anaconda Powershell Prompt*: <code>conda create -n tfgpu --ensc813-tfgpu-package-list.txt </code>. More info in the [requirements directory](https://github.com/AshivDhondea/ENSC813_Project/tree/master/requirements).
 
-Python packages used are listed in the file ensc813-tfgpu-package-list.txt which can be obtained by running the command <code>conda list --export > ensc813-tfgpu-package-list.txt </code>.
+Python packages used are listed in the file [ensc813-tfgpu-package-list.txt](https://github.com/AshivDhondea/ENSC813_Project/blob/master/requirements/ensc813-tfgpu-package-list.txt) which can be obtained by running the command <code>conda list --export > ensc813-tfgpu-package-list.txt </code>.
 
 ### Binary classification
 For the binary classification task, we made use of the following ConvNet architectures

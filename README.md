@@ -35,13 +35,21 @@ We modified the binary classification ConvNets to accommodate multi-class classi
 
 ### Citation
 If you use this work, cite it as 
+
 @misc{Hans2020DL,
-  author = {Dhondea, A.R.},
-  title = {Classifying car images in the TCC Dataset},
-  year = {2020},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/AshivDhondea/ENSC813_Project}}
+
+author = {Dhondea, A.R.},
+
+title = {Classifying car images in the TCC Dataset},
+
+year = {2020},
+
+publisher = {GitHub},
+
+journal = {GitHub repository},
+
+howpublished = {\url{https://github.com/AshivDhondea/ENSC813_Project}}
+
 }
 
 ### License

@@ -33,6 +33,17 @@ For the binary classification task, we made use of the following ConvNet archite
 We modified the binary classification ConvNets to accommodate multi-class classification problems. We ensembled our ConvNets to obtain an improved multi-class classifier. The following confusion matrix summarizes its classification performance.
 ![Confusion Matrix](https://github.com/AshivDhondea/ENSC813_Project/blob/master/output_files/confusionmatrix.png)
 
+### Citation
+If you use this work, cite it as 
+@misc{Hans2020DL,
+  author = {Dhondea, A.R.},
+  title = {Classifying car images in the TCC Dataset},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/AshivDhondea/ENSC813_Project}}
+}
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AshivDhondea/ENSC813_Project/blob/master/LICENSE) file for details
